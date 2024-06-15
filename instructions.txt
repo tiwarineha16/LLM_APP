@@ -1,5 +1,7 @@
 ## Download the Llama 2 Model:
 
+# Create a folder named model and save the downloaded model under the folder along with the instructions.txt file
+
 llama-2-7b-chat.ggmlv3.q4_0.bin
 
 
